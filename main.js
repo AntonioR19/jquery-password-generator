@@ -1,4 +1,5 @@
-/* AUTORE: Antonio Riccio
+/*
+ * AUTORE: Antonio Riccio
  * DATA CREAZIONE: 01-08-2017
  * VERSIONE: 1.0
 */
